@@ -13,8 +13,6 @@ const App = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const classes = useStyles();
-  // const alanKey =
-  // "9b483d8aca488f46385a9608d1538ff32e956eca572e1d8b807a3e2338fdd0dc/stage";
 
   useEffect(() => {
     alanBtn({
